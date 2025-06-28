@@ -2,7 +2,7 @@
 
 Exercícios resolvidos do curso de Python do Curso em Vídeo.
 
-## Mundo 1 - Fundmentos
+## Fundmentos
 - Variáveis
 - Operadores aritméticos e lógicos
 - Entrada e saída de dados
