@@ -1,6 +1,6 @@
 # Curso Python - Gustavo Guanabara
 
-Exercícios resolvidos do mundo 1 do curso de Python do Curso em Vídeo.
+Exercícios resolvidos do curso de Python do Curso em Vídeo.
 
 ## Mundo 1 - Fundmentos
 - Variáveis
